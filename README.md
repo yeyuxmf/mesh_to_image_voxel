@@ -17,6 +17,11 @@ Mesh to depth image, Mesh to rendering image, Mesh to voxel，3D voxel reconstru
 ![voxel](https://github.com/huang229/mesh_to_image_voxel/assets/29627190/25b5760e-600e-43f8-a425-11c4c6e16c87)
 
 
+# 3D voxel reconstruction
+1. This implementation mainly refers to the existing code on the internet, but the source has been forgotten. If there are any licensing rights, please follow the original author's permission.
+2. Below is a 3D reconstruction of head scan data from CBCT.
+![reconstruction](https://github.com/huang229/mesh_to_image_voxel/assets/29627190/ef84a62c-4baf-48c4-953c-f6726cf4c4ce)
+
 
 
 
