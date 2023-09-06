@@ -1,5 +1,6 @@
 # mesh_to_image_voxel
 Mesh to depth image, Mesh to rendering image, Mesh to voxel，3D voxel reconstruction，Eigen, OpenMesh, C++, Python
+1. In addition to the extremely slow speed of 3D voxel reconstruction, other speeds are extremely fast, and you can further optimize according to your own needs.
 
 # Visualization Tool Installation Package
 链接：https://pan.baidu.com/s/1SMPms9_GoujxcmbTCV0K3Q  （Geomagic Wrap 2013 (64 bit)）
