@@ -2,7 +2,7 @@
 Mesh to depth image, Mesh to rendering image, Mesh to voxel，3D voxel reconstruction，Eigen, OpenMesh, C++, Python
 
 # Visualization Tool Installation Package
-链接：https://pan.baidu.com/s/1SMPms9_GoujxcmbTCV0K3Q 
+链接：https://pan.baidu.com/s/1SMPms9_GoujxcmbTCV0K3Q  （Geomagic Wrap 2013 (64 bit)）
 提取码：fiid  
 This is a 3D visualization tool that supports visualization of stl/obj files and point cloud txt file formats.
 
