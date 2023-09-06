@@ -9,6 +9,7 @@ Mesh to depth image, Mesh to rendering image, Mesh to voxel，3D voxel reconstru
 # Mesh to depth image, Mesh to rendering image 
 1. References：https://zhuanlan.zhihu.com/p/363245957
 2.  mesh_to_image_voxel.cpp  mesh_to_image(vecFile[i], save_root)
+3.  Visualization code: Under the visualization_python directory
 ![image](https://github.com/huang229/mesh_to_image_voxel/assets/29627190/8686a642-9c30-4196-ba1b-17730ab1fdb2)
 
 # Mesh to voxel  
