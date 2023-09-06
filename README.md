@@ -1,6 +1,11 @@
 # mesh_to_image_voxel
 Mesh to depth image, Mesh to rendering image, Mesh to voxel，3D voxel reconstruction，Eigen, OpenMesh, C++, Python
 
+# Visualization Tool Installation Package
+链接：https://pan.baidu.com/s/1SMPms9_GoujxcmbTCV0K3Q 
+提取码：fiid  
+This is a 3D visualization tool that supports visualization of stl/obj files and point cloud txt file formats.
+
 # First step
 1. Firstly, it is necessary to perform directional correction on the original mesh data. Ensure that the sum of the normals of all triangular surfaces faces upwards.
 2. Visualize as follows:  data_correct.cpp   
@@ -22,6 +27,12 @@ Mesh to depth image, Mesh to rendering image, Mesh to voxel，3D voxel reconstru
 1. This implementation mainly refers to the existing code on the internet, but the source has been forgotten. If there are any licensing rights, please follow the original author's permission.
 2. Below is a 3D reconstruction of head scan data from CBCT.
 ![reconstruction](https://github.com/huang229/mesh_to_image_voxel/assets/29627190/ef84a62c-4baf-48c4-953c-f6726cf4c4ce)
+
+
+# License and Citation
+1.Without permission, the design concept of this model shall not be used for commercial purposes, profit seeking, etc.
+
+2.If you refer to the design concept of this model for theoretical research, please also add a reference.
 
 
 
