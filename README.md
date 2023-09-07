@@ -6,6 +6,10 @@
 链接：https://pan.baidu.com/s/1SMPms9_GoujxcmbTCV0K3Q  （Geomagic Wrap 2013 (64 bit)）
 提取码：fiid  
 This is a 3D visualization tool that supports visualization of stl/obj files and point cloud txt file formats.
+# Environment
+1. vs2017
+2. eigen-3.4.0
+3. OpenMesh 9.1
 
 # First step
 1. Firstly, it is necessary to perform directional correction on the original mesh data. Ensure that the sum of the normals of all triangular surfaces faces upwards.
